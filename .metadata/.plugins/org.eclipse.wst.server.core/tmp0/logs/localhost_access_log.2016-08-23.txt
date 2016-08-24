@@ -1,0 +1,6 @@
+127.0.0.1 - - [23/Aug/2016:22:33:09 -0600] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:22:34:15 -0600] "GET /CrunchifyRESTJerseyExample/crunchify/ctofservice/ HTTP/1.1" 404 1092
+0:0:0:0:0:0:0:1 - - [23/Aug/2016:22:34:44 -0600] "GET /Budget/Budget/ctofservice/ HTTP/1.1" 200 157
+127.0.0.1 - - [23/Aug/2016:22:36:25 -0600] "GET /Budget/Budget/ctofservice/38 HTTP/1.1" 200 157
+127.0.0.1 - - [23/Aug/2016:22:36:52 -0600] "GET /Budget/Budget/ctofservice/38 HTTP/1.1" 200 157
+127.0.0.1 - - [23/Aug/2016:22:37:18 -0600] "GET /Budget/Budget/ctofservice/60 HTTP/1.1" 200 157
